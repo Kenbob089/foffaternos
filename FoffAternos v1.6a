@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FoffAternos
 // @namespace    http://tampermonkey.net/
-// @version      1.6a
+// @version      1.0a
 // @description  Completely blocks Aternos anti-adblock detection
 // @author       Kenbob089
 // @match        https://aternos.org/*
